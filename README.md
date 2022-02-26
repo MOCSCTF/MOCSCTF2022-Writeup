@@ -42,17 +42,13 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |Crypto|slightly-informative|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
 |Crypto|super_secure_algorithm|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
 |Web|account|[clickme](./Web/account)|
-|Web|bucket|[clickme](./Web/bucket)|
-|Web|list|[clickme](./Web/list)|
+|Web|bucket list|[clickme](./Web/bucket%20list)|
 |Web|checkin|[clickme](./Web/checkin)|
 |Web|ezmerge|[clickme](./Web/ezmerge)|
 |Web|ezphp|[clickme](./Web/ezphp)|
 |Web|Face|[clickme](./Web/Face)|
-|Web|git|[clickme](./Web/git)|
-|Web|me|[clickme](./Web/me)|
-|Web|iam|[clickme](./Web/iam)|
-|Web|who|[clickme](./Web/who)|
-|Web|iam|[clickme](./Web/iam)|
+|Web|git me|[clickme](./Web/git%20me)|
+|Web|iam who iam|[clickme](./Web/iam%20who%20iam)|
 |Web|php_master|[clickme](./Web/php_master)|
 |Web|VerySecureShop|[clickme](./Web/VerySecureShop)|
 |Web|xxeme|[clickme](./Web/xxeme)|
@@ -86,9 +82,7 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |Reverse|babyxor|[clickme](./Reverse/babyxor)|
 |Reverse|easypy|[clickme](./Reverse/easypy)|
 |Reverse|logger|[clickme](./Reverse/logger)|
-|Reverse|Readme.md|[clickme](./Reverse/Readme.md)|
-|Reverse|string|[clickme](./Reverse/string)|
-|Reverse|reverse|[clickme](./Reverse/reverse)|
+|Reverse|string reverse|[clickme](./Reverse/string%20reverse)|
 |pwn|0biteintothesoul|[clickme](./pwn/0biteintothesoul)|
 |pwn|abyteMore|[clickme](./pwn/abyteMore)|
 |pwn|cage-pwn-heap-BoF|[clickme](./pwn/cage-pwn-heap-BoF)|
