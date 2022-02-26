@@ -1,6 +1,5 @@
 # writeup  
-1. ghunt find freddie expose his calendar to everyone  
-2. access to and find the a photo with mac address  
+1. ghunt find freddie expose his calendar to everyone   
 ![img](./1.PNG)  
 3. find the detail of the event  
 ![img](./2.PNG)  
