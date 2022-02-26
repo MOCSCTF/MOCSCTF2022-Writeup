@@ -75,7 +75,6 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |OSINT|freddie's_Macau_light_house_2|[clickme](./OSINT/freddie's_Macau_light_house_2)|
 |OSINT|freddie's_Macau_light_house_3|[clickme](./OSINT/freddie's_Macau_light_house_3)|
 |OSINT|freddie's_Macau_light_house_4|[clickme](./OSINT/freddie's_Macau_light_house_4)|
-|OSINT|freddie's_Macau_light_house_5|[clickme](./OSINT/freddie's_Macau_light_house_5)|
 |OSINT|have i been pwned|[clickme](./OSINT/have%20i%20been%20pwned)|
 |Reverse|Redactor|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
 |Reverse|Elementary|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
