@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+    node-web:
+        restart: always
+        build: .
+        image: merak/ezmerge
+        ports:
+            - "32002:3000"

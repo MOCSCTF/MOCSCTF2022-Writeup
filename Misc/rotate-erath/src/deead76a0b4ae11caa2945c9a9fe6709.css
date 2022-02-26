@@ -1,0 +1,36 @@
+html {
+  display: flex;
+  height:100vh;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+  background: rgb(80, 79, 79);
+}
+
+body::before{
+  font-weight: bold;
+  font-size: 55px;
+  color: #38df8b;
+}
+
+head { 
+  display: block;
+  background-image: url(https://media.giphy.com/media/HT1l9RaUUcHQMYwWy9/giphy.gif);
+  height: 251px;
+  width:447px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 5px solid rgb(209, 149, 228);
+  border-radius: 10px;
+  border-style: dashed;
+
+  /* MOCSCTF{YoY0YoY0_1nv151bl3_57yl3_5h337??} */
+
+}
+
+body::before {
+  display: inline-block;
+  padding-top: 3rem;
+  content: "來吧! 倒轉地球~";
+}

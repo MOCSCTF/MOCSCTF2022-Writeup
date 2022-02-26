@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Account</title>
+</head>
+
+<body>
+<form action="" method="get">
+  <p>
+	<input type="text" name="username" placeholder="username" />
+  </p>
+  <p>
+	<input type="password" name="password" placeholder="password" />
+  </p>
+  <p>
+     <input type="submit" name="login" value="Login" />
+  </p>
+</form>
+
+<?php
+
+$username = "administrator";
+$password = "lgj21@8&^YrID1)5ef_2ph";
+
+if (isset($_GET['username']) && isset($_GET['password'])) {
+  if (@strcmp($username, $_GET['username']) == 0 && @strcmp($password, $_GET['password']) == 0) {
+  	echo "<br><h2>Welcome, admin</h2>";
+  	echo "<a href=\"pin.php\"><button>PIN</button></a>";
+  }
+  else {
+	echo "<br><h2>Don't hack me please~</h2>";
+	echo "</br></br><p>Source code is in <b><i>index.txt</i></b></p>";
+  }
+}
+?>
+</body>
+</html>

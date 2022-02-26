@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  web:
+    build: .
+    image: teru/verysecureshop
+    restart: always
+    ports:
+      - "33001:80"

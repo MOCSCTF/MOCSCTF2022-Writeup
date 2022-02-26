@@ -1,0 +1,8 @@
+version: '2.1'
+services:
+  rev:
+    restart: always
+    build: .
+    ports:
+    - 60001:1024
+    

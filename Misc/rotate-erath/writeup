@@ -1,0 +1,20 @@
+# writeup  
+```shell
+curl -i http://localhost:31112
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+link: <deead76a0b4ae11caa2945c9a9fe6709.css>; rel=stylesheet;
+Refresh: 5; url=https://www.youtube.com/watch?v=kRSGL32Vg7E&t=70s
+Cache-Control: no-cache
+Content-Length: 0
+Server: Werkzeug/2.0.2 Python/3.6.14
+Date: Thu, 02 Dec 2021 07:58:43 GMT
+
+```
+
+check http://localhost:31112/deead76a0b4ae11caa2945c9a9fe6709.css
+
+will get the flag
+
+MOCSCTF{YoY0YoY0_1nv151bl3_57yl3_5h337??}
+

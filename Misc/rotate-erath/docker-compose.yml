@@ -1,0 +1,10 @@
+version: '2'
+services:
+  misc:
+    restart: always
+    volumes:
+      - ./src:/app
+    build: .
+    working_dir: /app
+    ports:
+     - "30003:80"

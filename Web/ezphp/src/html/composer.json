@@ -1,0 +1,12 @@
+{
+    "name": "mosctf/ezphp",
+    "authors": [
+        {
+            "name": "Ezphp",
+            "email": "ezphp@qq.com"
+        }
+    ],
+    "require": {
+        "opis/closure": "^3.6"
+    }
+}

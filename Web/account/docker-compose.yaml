@@ -1,0 +1,9 @@
+version: "2"
+services:
+
+  php-web:
+    build: .
+    image: boardware/account
+    ports:
+      - "31003:80"
+    restart: always

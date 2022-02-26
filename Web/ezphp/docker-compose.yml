@@ -1,0 +1,8 @@
+version: "3"
+services:
+  web:
+    build:
+      context: ./src
+    restart: always
+    ports:
+      - "32003:80"

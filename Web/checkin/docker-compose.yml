@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  jdk-web:
+    build: .
+    image: t4rn/ezj4va
+    restart: always
+    ports:
+      - "31001:8080"

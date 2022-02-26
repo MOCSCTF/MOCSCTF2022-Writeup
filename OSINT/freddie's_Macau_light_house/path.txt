@@ -1,0 +1,20 @@
+1. photo -> google map -> find fffreddie merry -> cyber ctm -> flag
+MOCSCTF{h0w_c0uld_y0u_f1nd_m3?}
+2. cyber ctm-> find mail(mfreddie0905@gmail.com) -> find public calendar -> find photo -> wigle find wifi ssid
+MOCSCTF{fr3dd13_w1f1_eb3f}
+3. find public calendar ->  find fd fffreddiemmmmxxx0905@gmail.com -> send mail auto reply give flag
+MOCSCTF{n0_m0r3_r1ck_r0ll_4_4..}
+4. send mail auto reply give username -> sherlock -> got instagram -> find deleted post in waybackmachine
+MOCSCTF{7h15_15_wh47_y0ur_l34rn_fr0m_l457_y34r!}
+5. unlisted youtube videos -> 10 hrs to the rickroll -> in the medium of page find the qr code to mocsctf facebook -> got the flag from auto reply (send i want f@t!)
+MOCSCTF{if_you_like_this,_please_follow_and_share_our_page_:D}
+31:06
+
+
+
+https://pastebin.com/bLdXWajP
+
+https://web.archive.org/web/*/https://pastebin.com/bLdXWajP
+
+
+https://web.archive.org/web/20220117050125/https://pastebin.com/bLdXWajP

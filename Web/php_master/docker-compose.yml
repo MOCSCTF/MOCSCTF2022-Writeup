@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+  web:
+    build: .
+    image: t4rn/checkin
+    restart: always
+    ports:
+      - "32001:80"
+    environment:
+      - FLAG=MOCSCTF{Oh_You_3re_A_php_M4ster}
