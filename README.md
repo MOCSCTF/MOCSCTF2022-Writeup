@@ -82,10 +82,10 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |Reverse|easypy|[clickme](./Reverse/easypy)|
 |Reverse|logger|[clickme](./Reverse/logger)|
 |Reverse|string reverse|[clickme](./Reverse/string%20reverse)|
-|pwn|0biteintothesoul|[clickme](./pwn/0biteintothesoul)|
-|pwn|abyteMore|[clickme](./pwn/abyteMore)|
-|pwn|cage-pwn-heap-BoF|[clickme](./pwn/cage-pwn-heap-BoF)|
-|pwn|calc|[clickme](./pwn/calc)|
-|pwn|echo|[clickme](./pwn/echo)|
-|pwn|fxxkheap|[clickme](./pwn/fxxkheap)|
-|pwn|house-of-orange-pwn-free-after-use|[clickme](./pwn/house-of-orange-pwn-free-after-use)|
+|Pwn|0biteintothesoul|[clickme](./Pwn/0biteintothesoul)|
+|Pwn|abyteMore|[clickme](./Pwn/abyteMore)|
+|Pwn|cage-pwn-heap-BoF|[clickme](./Pwn/cage-pwn-heap-BoF)|
+|Pwn|calc|[clickme](./Pwn/calc)|
+|Pwn|echo|[clickme](./Pwn/echo)|
+|Pwn|fxxkheap|[clickme](./Pwn/fxxkheap)|
+|Pwn|house-of-orange-pwn-free-after-use|[clickme](./Pwn/house-of-orange-pwn-free-after-use)|
