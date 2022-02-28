@@ -58,8 +58,7 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |Forensic|dictok|[clickme](./Forensic/dictok)|
 |Forensic|encoded message|[clickme](./Forensic/encoded%20message)|
 |Forensic|envvvvar|[clickme](./Forensic/envvvvar)|
-|Forensic|Magic|[clickme](./Forensic/Magic)|
-|Forensic|Conversation|[clickme](./Forensic/Conversation)|
+|Forensic|Magic Conversation|[clickme](./Forensic/Magic%20Conversation)|
 |Forensic|notepad|[clickme](./Forensic/notepad)|
 |Forensic|Oh No|[clickme](./Forensic/Oh%20No)|
 |Forensic|p@55w0rd|[clickme](./Forensic/p@55w0rd)|
