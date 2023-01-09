@@ -34,13 +34,13 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |categories|challenges|link|
 |----------|----------|----------|
 |Crypto|super_secure_algorithm|[clickme](./Crypto/super_secure_algorithm)|
-|Crypto|3-aes|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Crypto|hmac-sha256|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Crypto|np-sha256|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Crypto|rc4|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Crypto|rsa-trio|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Crypto|slightly-informative|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Crypto|super_secure_algorithm|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
+|Crypto|3-aes|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Crypto|hmac-sha256|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Crypto|np-sha256|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Crypto|rc4|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Crypto|rsa-trio|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Crypto|slightly-informative|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Crypto|super_secure_algorithm|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
 |Web|account|[clickme](./Web/account)|
 |Web|bucket list|[clickme](./Web/bucket%20list)|
 |Web|checkin|[clickme](./Web/checkin)|
@@ -66,8 +66,8 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |Misc|free_flag|[clickme](./Misc/free_flag)|
 |Misc|location code|[clickme](./Misc/location%20code)|
 |Misc|rotate-erath|[clickme](./Misc/rotate-erath)|
-|Misc|hashtable|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Misc|wordle|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
+|Misc|hashtable|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Misc|wordle|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
 |OSINT|array-1|[clickme](./OSINT/array-1)|
 |OSINT|array-2|[clickme](./OSINT/array-2)|
 |OSINT|freddie's_Macau_light_house|[clickme](./OSINT/freddie's_Macau_light_house)|
@@ -75,8 +75,8 @@ Morpheus@[Paloaltonetworks](https://www.paloaltonetworks.com/)
 |OSINT|freddie's_Macau_light_house_3|[clickme](./OSINT/freddie's_Macau_light_house_3)|
 |OSINT|freddie's_Macau_light_house_4|[clickme](./OSINT/freddie's_Macau_light_house_4)|
 |OSINT|have i been pwned|[clickme](./OSINT/have%20i%20been%20pwned)|
-|Reverse|Redactor|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
-|Reverse|Elementary|[clickme](https://mystiz.hk/posts/2022-02-19-mocsctf/)|
+|Reverse|Redactor|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
+|Reverse|Elementary|[clickme](https://mystiz.hk/posts/2022/2022-02-19-mocsctf/)|
 |Reverse|babyxor|[clickme](./Reverse/babyxor)|
 |Reverse|easypy|[clickme](./Reverse/easypy)|
 |Reverse|logger|[clickme](./Reverse/logger)|
